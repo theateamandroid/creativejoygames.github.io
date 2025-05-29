@@ -1835,3 +1835,90 @@ smartyads.com, 100016, RESELLER, fd2bde0ff2e62c5d
 showheroes.com, 6036, RESELLER
 betweendigital.com, 44727, RESELLER
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
+lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 4865, RESELLER
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+smartclip.net, 15458, RESELLER
+xandr.com, 3318, RESELLER
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
+loopme.com, 11347, RESELLER, 6c8d5f95897a5a3b
+start.io, 150505487, RESELLER
+contextweb.com, 563605, RESELLER, 89ff185a4c4e857c
+video.unrulymedia.com, 3881266972, RESELLER
+app-stock.com, 558223, RESELLER, ed8c126ea5971415
+sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
+33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
+themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
+appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
+sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
+contextweb.com, 563079, RESELLER, 89ff185a4c4e857c
+aceex.io, 1926, RESELLER, b1cf3c874d5c6682
+inmobi.com, 33f042dcf10549ae9fb1b9e2ee0ecfc3, RESELLER, 83e75a7ae333ca9d
+improvedigital.com, 1408, RESELLER
+richaudience.com, q3KyMB36ue, RESELLER
+appnexus.com, 16244, RESELLER
+inmobi.com, 7798aa742d014cd79627bb67ec431379, RESELLER, 83e75a7ae333ca9d
+app-stock.com, 384491, RESELLER
+sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
+lacunads.com, LCb555b3bc8667a09a, RESELLER
+media.net, 8CU9B72O6, RESELLER
+yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, RESELLER
+videoheroes.tv, 212450, RESELLER, 064bc410192443d8
+video.unrulymedia.com, 3634565696, RESELLER, 6f752381ad5ec0e5
+azberry.com, 321006, RESELLER
+appnexus.com, 1354, RESELLER
+freewheel.tv, 1601388, RESELLER
+conversantmedia.com, 100569, RESELLER, 03113cd04947736d
+sharethrough.com, FTVCT81v, RESELLER
+xandr.com, 8916, RESELLER
+loopme.com, 14009, RESELLER, 6c8d5f95897a5a3b
+improvedigital.com, 1664, RESELLER
+iion.io, 10162, RESELLER
+risecodes.com, 66bca72035bff70001caa46f, RESELLER
+mango.mp, 323120, RESELLER
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+screenil.com, 554156, RESELLER
+aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
+adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
+visoon.de, 64393, RESELLER
+openx.com, 540396775, RESELLER, 6a698e2ec38604c6
+contextweb.com, 563595, RESELLER, 89ff185a4c4e857c
+opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
+themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
+connectad.io, 453, RESELLER, 85ac85a30c93b3e5
+blueseasx.com, 203613, RESELLER, 7998eac5087f6110
+lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
+contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
+pubnative.net, 1009966, RESELLER, d641df8625486a7b
+improvedigital.com, 2371, RESELLER
+krushmedia.com, ajxf6R585a9m6Catvk, RESELLER
+media.net, 8CU813E2H, RESELLER
+sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
+brightcom.com, 23120, RESELLER
+contextweb.com, 563521, RESELLER, 89ff185a4c4e857c
+axonix.com, 59107, RESELLER, bc385f2b4a87b721
+grouprvn.com, 420212011, RESELLER
+inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
+appnexus.com, 17234, RESELLER
+opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
+triplelift.com, 10223, RESELLER, 6c33edb13117fd86
+lijit.com, 273050, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
+ucfunnel.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
+sabio.us, 100092, RESELLER, 96ed93aaa9795702
+smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
+ushareit.com, LCb555b3bc8667a09a, RESELLER
+sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
+loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
+video.unrulymedia.com, 906352066, RESELLER
+carbonatix.com, 14840966, RESELLER
+pubmatic.com, 159499, RESELLER, 5d62403b186f2ace
+admanmedia.com, 2037, RESELLER
+onairglobal.com, 4357629, RESELLER
+thebrave.io, 1234764, RESELLER, c25b2154543746ac
+adiiix.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
