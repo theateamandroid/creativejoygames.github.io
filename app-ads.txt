@@ -1922,3 +1922,16 @@ thebrave.io, 1234764, RESELLER, c25b2154543746ac
 adiiix.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
 sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 2534, RESELLER
+xandr.com, 16546, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+improvedigital.com, 2609, RESELLER
+copper6.com, 766114, RESELLER
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+zmaticoo.com, 5135063, RESELLER
+taurusx.com, 80635, RESELLER
+advertising.com, 82632, RESELLER
